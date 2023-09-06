@@ -76,7 +76,7 @@
   font-size: 40px;
   font-weight: 700;
   background: transparent;
-  border: 1px solid #ffffff74;
+  border: 1px solid #ffffff7a;
   width: 80px;
   height: 80px;
   line-height: 1.8;
@@ -126,4 +126,14 @@
 .bg-footer a{
   text-decoration: none;
   color: #eaeaea;
+}
+
+.j{
+  text-decoration: none;
+}
+.h{
+  text-align: right;
+}
+.ff{
+  text-align: justify;
 }
